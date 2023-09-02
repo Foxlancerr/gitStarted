@@ -13,5 +13,4 @@ git remote add origin https://github.com/M-Asimm/gitStarted.git
 git branch -M main
 git push -u origin main
 
-this is sub branch and just for testing 
-purposes
+
